@@ -4,7 +4,7 @@
 START_TIME=$(date +%s)
 echo "Script started execution at: $START_TIME"
 
-
+sleep 15
 
 END_TIME=$(date +%s)
 echo "Script completed execution at: $END_TIME"
