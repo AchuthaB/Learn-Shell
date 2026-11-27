@@ -37,3 +37,5 @@ do
         echo -e "${package} already installed...${Y}SKIPPING${N}"
     fi
 done
+
+#-e for enabling something 
